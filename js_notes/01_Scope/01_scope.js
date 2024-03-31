@@ -1,7 +1,7 @@
 // scope chain  
 // 01
 function a(){
-    console.log(b);//here b can be access inside the scope beacuse of the b is present in the global space and not on the local space  and    that is also present in the lexical Environment
+    console.log(b);//here  can be access inside the scope beacuse of the b is present in the global space and not on the local space  and    that is also present in the lexical Environment
 }
 
 let b=10;
