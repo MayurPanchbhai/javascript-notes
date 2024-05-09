@@ -1,4 +1,4 @@
-// What is callback function in javascript
+//  
 
 // callback function :- A function which is passed into an another function
 

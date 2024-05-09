@@ -1,5 +1,5 @@
 // First Class Function or First class function
-//  the ability of function used as an argument into an another function is called as first class function
+// the ability of function used as an argument into an another function is called as first class function
 
 //                                         or 
 //functions can be assigned to any other variable or passed as an argument or can be returned by another function
